@@ -1,0 +1,30 @@
+/* Afecta a todos h1 */
+h1 {
+    color: brown;
+}
+
+body {
+    background-color: #fffbf7;
+  }
+
+
+#description{
+    color: #8b8b8bcc;
+}  
+
+.button
+{
+    font-size: 13px;
+    color:#fff;
+    background: #025157;
+}
+
+/* acceder por id */
+#header{
+    color: #46484c;
+}
+
+/* acceder por la clase */
+.header{
+
+}
